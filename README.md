@@ -1,1 +1,1 @@
-The Web URL: https://alokhibare.github.io/Portfolio/
+The Web URL: https://alokhibare.github.io/portfolio
